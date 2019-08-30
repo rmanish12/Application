@@ -1,0 +1,32 @@
+.center {
+    padding: 120px 10px;
+    text-align: center
+  }
+
+  .verticalCenter {
+    border: 3px solid antiquewhite;
+    padding: 20px
+  }
+
+  .help {
+      font-size: small;
+      font-variant: all-petite-caps;
+      color: darkgray
+  }
+
+  .button {
+      width: 70%;
+      background-color: gray
+  }
+
+  .invalid {
+      color: red;
+      background-color: mistyrose;
+      font-variant: all-petite-caps
+  }
+
+  .valid {
+    color: green;
+    background-color: darkseagreen;
+    font-variant: all-petite-caps
+  } 
